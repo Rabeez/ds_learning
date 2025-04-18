@@ -10,14 +10,9 @@ Then you can open and explore the notebook for any topic.
 
 ## Topics
 
-### Central Limit Theorem
-
-### Sampling Distributions and Inferential Statistics
-
-### K-Means Clustering
-
-### Linear / Regression models from multiple perspectives
-
-### Gradient Descent
-
-### Linear Programming (optimization)
+- [x] Central Limit Theorem
+- [ ] Sampling Distributions and Inferential Statistics
+- [ ] K-Means Clustering
+- [ ] Linear / Regression models from multiple perspectives
+- [ ] Gradient Descent
+- [ ] Linear Programming (optimization)
