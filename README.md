@@ -16,7 +16,7 @@ Then you can open and explore the notebook for any topic.
 - [ ] Linear / Regression models from multiple perspectives
 - [ ] Gradient Descent
 - [ ] Linear Programming (optimization)
-- [ ] Monte-carlo pi estimation
+- [x] Monte-carlo pi estimation
 - [ ] Principal Component Analysis
 - [ ] CNN activation maps
 - [ ] ML propensity model business metric threshold selection
