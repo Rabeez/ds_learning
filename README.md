@@ -12,7 +12,7 @@ Then you can open and explore the notebook for any topic.
 
 - [x] Central Limit Theorem
 - [ ] Sampling Distributions and Inferential Statistics
-- [ ] K-Means Clustering
+- [x] K-Means Clustering
 - [ ] Linear / Regression models from multiple perspectives
 - [ ] Gradient Descent
 - [ ] Linear Programming (optimization)
@@ -20,3 +20,5 @@ Then you can open and explore the notebook for any topic.
 - [ ] Principal Component Analysis
 - [ ] CNN activation maps
 - [ ] ML propensity model business metric threshold selection
+- [ ] Online learning (example regressor?)
+- [ ] Newton Raphson method
