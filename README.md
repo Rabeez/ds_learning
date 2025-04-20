@@ -11,7 +11,8 @@ Then you can open and explore the notebook for any topic.
 ## Topics
 
 - [x] Central Limit Theorem
-- [ ] Sampling Distributions and Inferential Statistics
+- [x] Sampling Distributions via Bootstrap
+- [ ] Bootstrap and Inferential Statistics
 - [x] K-Means Clustering
 - [ ] Linear / Regression models from multiple perspectives
 - [ ] Gradient Descent
