@@ -23,3 +23,4 @@ Then you can open and explore the notebook for any topic.
 - [ ] ML propensity model business metric threshold selection
 - [ ] Online learning (example regressor?)
 - [ ] Newton Raphson method
+- [ ] Dynamic systems: 'point of no return?'
